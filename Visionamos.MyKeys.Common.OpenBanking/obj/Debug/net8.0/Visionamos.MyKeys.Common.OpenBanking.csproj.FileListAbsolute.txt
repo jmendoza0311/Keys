@@ -1,0 +1,17 @@
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\bin\Debug\net8.0\SwaggerCustom\Images\logoVisionamos.png
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\bin\Debug\net8.0\SwaggerCustom\custom.css
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\bin\Debug\net8.0\SwaggerCustom\custom.js
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.deps.json
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.runtimeconfig.json
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.csproj.AssemblyReference.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.AssemblyInfoInputs.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.AssemblyInfo.cs
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.csproj.CoreCompileInputs.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\refint\Visionamos.MyKeys.Common.OpenBanking.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Common.OpenBanking.genruntimeconfig.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Common.OpenBanking\obj\Debug\net8.0\ref\Visionamos.MyKeys.Common.OpenBanking.dll

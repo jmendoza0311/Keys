@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Visionamos.MyKeys.Application.OpenBanking.Contracts/1.0.0": {
+        "runtime": {
+          "Visionamos.MyKeys.Application.OpenBanking.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visionamos.MyKeys.Application.OpenBanking.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

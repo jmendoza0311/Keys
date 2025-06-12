@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visionamos.MyKeys.OpenBanking", "Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.OpenBanking.csproj", "{D9C6D57E-8C93-4E47-BB69-0217A335682B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layers", "Layers", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 Distribuide Services", "1.1 Distribuide Services", "{77E34324-5308-409B-8988-F3E26528B387}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 Application", "1.2 Application", "{EB6106B4-295C-480B-BB58-D5C87949B3D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3 Business", "1.3 Business", "{46A5D7C2-3527-438C-BFAC-97613C254F1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.4 DataAccess", "1.4 DataAccess", "{22AF9999-EDC4-4238-BC65-DB8EE0554965}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5 Cross-Cutting", "1.5 Cross-Cutting", "{2FE60D0D-3787-40F3-B3A4-198DF9CEB87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visionamos.MyKeys.Application.OpenBanking", "Visionamos.MyKeys.Application.OpenBanking\Visionamos.MyKeys.Application.OpenBanking.csproj", "{1429391B-27B8-40F1-A3B8-3321FCA9A9D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visionamos.MyKeys.Business.OpenBanking", "Visionamos.MyKeys.Business.OpenBanking\Visionamos.MyKeys.Business.OpenBanking.csproj", "{070F045D-EDE8-421F-9E01-2C7D97EC5949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visionamos.MyKeys.DataAccess.OpenBanking", "Visionamos.MyKeys.DataAccess.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.csproj", "{CE97A536-3729-48AD-B0D2-11A4091EB6D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visionamos.MyKeys.Common.OpenBanking", "Visionamos.MyKeys.Common.OpenBanking\Visionamos.MyKeys.Common.OpenBanking.csproj", "{3A41992D-0151-47D2-8977-6EA3CB9E7E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visionamos.MyKeys.DataAccess.OpenBanking.Contract", "Visionamos.MyKeys.DataAccess.OpenBanking.Contract\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.csproj", "{C527107B-7B28-4776-BE50-5D797E85B006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visionamos.MyKeys.Application.OpenBanking.Contracts", "Visionamos.MyKeys.Application.OpenBanking.Contracts\Visionamos.MyKeys.Application.OpenBanking.Contracts.csproj", "{A88C72B9-F882-4A3D-96F7-C3B8F54FD8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C6D57E-8C93-4E47-BB69-0217A335682B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C6D57E-8C93-4E47-BB69-0217A335682B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C6D57E-8C93-4E47-BB69-0217A335682B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C6D57E-8C93-4E47-BB69-0217A335682B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1429391B-27B8-40F1-A3B8-3321FCA9A9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1429391B-27B8-40F1-A3B8-3321FCA9A9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1429391B-27B8-40F1-A3B8-3321FCA9A9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1429391B-27B8-40F1-A3B8-3321FCA9A9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070F045D-EDE8-421F-9E01-2C7D97EC5949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070F045D-EDE8-421F-9E01-2C7D97EC5949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070F045D-EDE8-421F-9E01-2C7D97EC5949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070F045D-EDE8-421F-9E01-2C7D97EC5949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE97A536-3729-48AD-B0D2-11A4091EB6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE97A536-3729-48AD-B0D2-11A4091EB6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE97A536-3729-48AD-B0D2-11A4091EB6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE97A536-3729-48AD-B0D2-11A4091EB6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A41992D-0151-47D2-8977-6EA3CB9E7E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A41992D-0151-47D2-8977-6EA3CB9E7E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A41992D-0151-47D2-8977-6EA3CB9E7E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A41992D-0151-47D2-8977-6EA3CB9E7E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C527107B-7B28-4776-BE50-5D797E85B006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C527107B-7B28-4776-BE50-5D797E85B006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C527107B-7B28-4776-BE50-5D797E85B006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C527107B-7B28-4776-BE50-5D797E85B006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88C72B9-F882-4A3D-96F7-C3B8F54FD8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88C72B9-F882-4A3D-96F7-C3B8F54FD8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88C72B9-F882-4A3D-96F7-C3B8F54FD8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88C72B9-F882-4A3D-96F7-C3B8F54FD8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D9C6D57E-8C93-4E47-BB69-0217A335682B} = {77E34324-5308-409B-8988-F3E26528B387}
+		{77E34324-5308-409B-8988-F3E26528B387} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{EB6106B4-295C-480B-BB58-D5C87949B3D2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{46A5D7C2-3527-438C-BFAC-97613C254F1C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{22AF9999-EDC4-4238-BC65-DB8EE0554965} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2FE60D0D-3787-40F3-B3A4-198DF9CEB87D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{1429391B-27B8-40F1-A3B8-3321FCA9A9D1} = {EB6106B4-295C-480B-BB58-D5C87949B3D2}
+		{070F045D-EDE8-421F-9E01-2C7D97EC5949} = {46A5D7C2-3527-438C-BFAC-97613C254F1C}
+		{CE97A536-3729-48AD-B0D2-11A4091EB6D7} = {22AF9999-EDC4-4238-BC65-DB8EE0554965}
+		{3A41992D-0151-47D2-8977-6EA3CB9E7E93} = {2FE60D0D-3787-40F3-B3A4-198DF9CEB87D}
+		{C527107B-7B28-4776-BE50-5D797E85B006} = {22AF9999-EDC4-4238-BC65-DB8EE0554965}
+		{A88C72B9-F882-4A3D-96F7-C3B8F54FD8F1} = {EB6106B4-295C-480B-BB58-D5C87949B3D2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C08D4A9-6438-482C-9F75-59C12954FEF3}
+	EndGlobalSection
+EndGlobal

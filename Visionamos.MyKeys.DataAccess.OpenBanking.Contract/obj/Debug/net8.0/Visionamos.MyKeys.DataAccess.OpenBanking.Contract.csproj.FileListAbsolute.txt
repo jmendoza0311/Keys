@@ -1,0 +1,11 @@
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\bin\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.deps.json
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\bin\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\bin\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.AssemblyInfoInputs.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.AssemblyInfo.cs
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.csproj.CoreCompileInputs.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\refint\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.DataAccess.OpenBanking.Contract\obj\Debug\net8.0\ref\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.dll

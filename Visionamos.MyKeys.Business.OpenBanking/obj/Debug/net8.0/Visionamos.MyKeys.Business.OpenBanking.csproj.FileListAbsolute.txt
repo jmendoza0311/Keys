@@ -1,0 +1,17 @@
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.deps.json
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\bin\Debug\net8.0\Visionamos.MyKeys.DataAccess.OpenBanking.Contract.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.csproj.AssemblyReference.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.AssemblyInfoInputs.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.AssemblyInfo.cs
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.csproj.CoreCompileInputs.cache
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionam.2B99FB92.Up2Date
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\refint\Visionamos.MyKeys.Business.OpenBanking.dll
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\Visionamos.MyKeys.Business.OpenBanking.pdb
+C:\Users\jmendoza\source\repos\Visionamos.MyKeys.OpenBanking\Visionamos.MyKeys.Business.OpenBanking\obj\Debug\net8.0\ref\Visionamos.MyKeys.Business.OpenBanking.dll
